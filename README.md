@@ -1,4 +1,4 @@
-# Java 0-1 🚀
+# DSA 0-1 🚀
 
 My starting point for cracking SDE interviews — solving the **NeetCode 150** in Java, 
 one problem at a time, with clean code and real understanding (no AI autocomplete).
